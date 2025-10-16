@@ -6,7 +6,8 @@
 | B |   |   |   |
 | C |   |   |   |
 
-**Legenda**
-
+**Jogadores**
++ Pedro "X"
++ João  "O"
 - ❌ Primeiro jogador 
 - ⭕ Segundo jogador
