@@ -2,12 +2,11 @@
 
 |   | 1 | 2 | 3 |
 |---|---|---|---|
-| A |   |   |   |
+| A | O |   |   |
 | B |   |   |   |
 | C |   |   |   |
 
 **Jogadores**
-+ Pedro "X"
-+ João  "O"
+
 - ❌ Primeiro jogador 
 - ⭕ Segundo jogador
